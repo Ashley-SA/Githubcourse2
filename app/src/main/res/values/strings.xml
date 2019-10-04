@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Githubcourse2</string>
+    <string name="lerato">Lerato</string>
+    <string name="naomi">Naomi</string>
+    <string name="anik">Anik</string>
+    <string name="textview">TextView</string>
 </resources>
